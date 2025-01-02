@@ -50,7 +50,7 @@ This project contains one dataset.
 <h3><b>Code File</b></h3>
 This project contains one code file.
 <ul>
-  <li><b>movieDataCode.py:</b> Contains the code for all the weekly data analysis assignments. I put them in one because all the assignments built on each other in the same dataset, which means I can use code from earlier assignments in later assignments.</li>
+  <li><b>movieDataCode.py:</b> Contains the code for all the weekly data analysis assignments. I put them in one because all the assignments built on each other in the same dataset, which means I can use code from earlier assignments in later assignments. Comments were used throughout the file to split the code between assignments and questions.</li>
 </ul>
 
 <h3>Contact</h3>
