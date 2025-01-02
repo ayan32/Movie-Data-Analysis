@@ -1,6 +1,6 @@
 # Movie Data Analysis
 
-<h3>Semester Long Data Analysis Assignments in DS-UA 112 that builds on concepts from the course</h3>
+<h3>Semester Long Data Analysis Assignments in DS-UA 112 that build on concepts from the course</h3>
 
 This project uses a dataset that features reviews of 400 movies across 1097 research participants. Every week, we use concepts taught in class and code them out in Python to get and analyze the specific results.
 
